@@ -1,0 +1,3 @@
+function showMessage() {
+  alert("Biz bilan bog‘langaningiz uchun rahmat! Tez orada siz bilan aloqaga chiqamiz.");
+}
